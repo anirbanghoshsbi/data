@@ -1,0 +1,101 @@
+Stock Name	yahoo finance ticker
+Oil And Natural Gas Corpor...	ongc.ns
+InterGlobe Aviation Ltd.	indigo.ns
+Tata Consultancy Services ...	tcs.ns
+Tata Motors Ltd.	tatamotors.ns
+HDFC Bank Ltd.	hdfcbank.ns
+Oracle Financial Services ...	ofss.ns
+Wipro Ltd.	wipro.ns
+Infosys Ltd.	infy.ns
+Hindustan Zinc Ltd.	hindzinc.ns
+Nestle India Ltd.	nestleind.ns
+Adani Ports & Special Econ...	adaniports.ns
+Marico Ltd.	marico.ns
+Procter & Gamble Hygiene &...	pghh.ns
+Bharti Infratel Ltd.	INFRATEL-EQ.NS
+Tech Mahindra Ltd.	techm.ns
+Bajaj Auto Ltd.	BAJAJ-AUTO.NS
+Hindustan Unilever Ltd.	HINDUNILVR.NS
+HCL Technologies Ltd.	HCLTECH.NS
+Hero MotoCorp Ltd.	HEROMOTOCO.NS
+Reliance Industries Ltd.	RELIANCE.NS
+Bharat Petroleum Corporati...	BPCL.NS
+Britannia Industries Ltd.	BRITANNIA.NS
+Power Grid Corporation of ...	POWERGRID.NS
+Torrent Pharmaceuticals Ltd.	TORNTPHARM.NS
+Colgate-Palmolive (India) ...	COLPAL.NS
+Bharti Airtel Ltd.	BHARTIARTL.NS
+ICICI Lombard General Insu...	ICICIGI.NS
+ITC Ltd.	ITC.NS
+Indian Oil Corporation Ltd.	IOC.NS
+Axis Bank Ltd.	AXISBANK.NS
+Dr. Reddy's Laboratories Ltd.	DRREDDY.NS
+HDFC Life Insurance Compan...	HDFCLIFE.NS
+Tata Steel Ltd.	TATASTEEL.NS
+UPL Ltd.	UPL.NS
+Abbott India Ltd.	ABBOTINDIA.NS
+Housing Development Financ...	HDFC.NS
+SBI Life Insurance Company...	SBILIFE.NS
+Avenue Supermarts Ltd.	DMART.NS
+Godrej Consumer Products Ltd.	GODREJCP.NS
+United Breweries Ltd.	UBL.NS
+Asian Paints Ltd.	ASIANPAINT.NS
+Dabur India Ltd.	DABUR.NS
+Pidilite Industries Ltd.	PIDILITIND.NS
+Titan Company Ltd.	TITAN.NS
+Coal India Ltd.	COALINDIA.NS
+GAIL (India) Ltd.	GAIL.NS
+Petronet LNG Ltd.	PETRONET.NS
+HDFC Asset Management Comp...	HDFCAMC.NS
+Havells India Ltd.	HAVELLS.NS
+ICICI Bank Ltd.	ICICIBANK.NS
+Maruti Suzuki India Ltd.	MARUTI.NS
+Bajaj Holdings & Investmen...	BAJAJHLDNG.NS
+Info Edge (India) Ltd.	NAUKRI.NS
+SBI Cards and Payment Serv...	SBICARD.NS
+Hindustan Petroleum Corpor...	HINDPETRO.NS
+Larsen & Toubro Ltd.	LT.NS
+Grasim Industries Ltd.	GRASIM.NS
+Container Corporation of I...	CONCOR.NS
+JSW Steel Ltd.	JSWSTEEL.NS
+Mahindra & Mahindra Ltd.	M&M.NS
+UltraTech Cement Ltd.	ULTRACEMCO.NS
+Biocon Ltd.	BIOCON.NS
+Indraprastha Gas Ltd.	IGL.NS
+Power Finance Corporation ...	PFC.NS
+Hindalco Industries Ltd.	HINDALCO.NS
+Cadila Healthcare Ltd.	CADILAHC.NS
+Kotak Mahindra Bank Ltd.	KOTAKBANK.NS
+Bandhan Bank Ltd.	BANDHANBNK.NS
+NHPC Ltd.	NHPC.NS
+Divi's Laboratories Ltd.	DIVISLAB.NS
+Cipla Ltd.	CIPLA.NS
+Berger Paints (India) Ltd.	BERGEPAINT.NS
+Zee Entertainment Enterpri...	ZEEL.NS
+Shree Cements Ltd.	SHREECEM.NS
+Bajaj Finance Ltd.	BAJFINANCE.NS
+Lupin Ltd.	LUPIN.NS
+Siemens Ltd.	SIEMENS.NS
+Bank of Baroda	BANKBARODA.NS
+NTPC Ltd.	NTPC.NS
+General Insurance Corporat...	GICRE.NS
+Muthoot Finance Ltd.	MUTHOOTFIN.NS
+ACC Ltd.	ACC.NS
+IndusInd Bank Ltd.	INDUSINDBK.NS
+Ambuja Cements Ltd.	AMBUJACEM.NS
+Bajaj Finserv Ltd.	BAJAJFINSV.NS
+Punjab National Bank	PNB.NS
+Eicher Motors Ltd.	EICHERMOT.NS
+Page Industries Ltd.	PAGEIND.NS
+State Bank of India	SBIN.NS
+Motherson Sumi Systems Ltd.	MOTHERSUMI.NS
+ICICI Prudential Life Insu...	ICICIPRULI.NS
+Sun Pharmaceutical Industr...	SUNPHARMA.NS
+United Spirits Ltd.	MCDOWELL-N.NS
+Aurobindo Pharma Ltd.	AUROPHARMA.NS
+Adani Transmission Ltd.	ADANITRANS.NS
+Bosch Ltd.	BOSCHLTD.NS
+DLF Ltd.	DLF.NS
+Shriram Transport Finance ...	SRTRANSFIN.NS
+Piramal Enterprises Ltd.	PEL.NS
+NMDC Ltd.	NMDC.NS
