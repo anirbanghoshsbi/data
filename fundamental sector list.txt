@@ -1,2 +1,2 @@
-,agriculture_sector.txt,stock_broker_sector.txt,airconditioners_sector.txt,airlines_sector.txt,aluminium_sector.txt,acqaculture_sector.txt,autoancillary_sector.txt,autoancillary_auto_truck_mcycle_sector.txt,autoancillary_bearings_sector.txt,autoancillaries-castingsforgings_sector.txt,autoancillaries-gears_sector.txt,
+,agriculture_sector.txt,stock_broker_sector.txt,airconditioners_sector.txt,airlines_sector.txt,aluminium_sector.txt,acqaculture_sector.txt,autoancillary_sector.txt,autoancillary_auto_truck_mcycle_sector.txt,autoancillary_bearings_sector.txt,autoancillaries-castingsforgings_sector.txt,autoancillaries-gears_sector.txt
 
