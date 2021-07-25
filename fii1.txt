@@ -11,7 +11,7 @@
 1152
 11013
 -248
-943https://github.com/anirbanghoshsbi/data/blob/main/fii1.txt
+943
 20 Jul 2021
 18.7
 50.8
