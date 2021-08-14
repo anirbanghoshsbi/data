@@ -1,4 +1,4 @@
-code,name,description,refreshed_at,from_date,to_date
+code,name,description,refreshed_at,start_date,end_date
 BOM500002,ABB India Limited EOD Prices,End of Day prices and additional trading information for ABB India Limited EOD Prices.,2021-06-04 14:10:05,1992-03-02,2021-06-04
 BOM500003,AEGIS LOGISTICS LTD. EOD Prices,End of Day prices and additional trading information for AEGIS LOGISTICS LTD. EOD Prices.,2021-06-04 14:10:05,1992-03-02,2021-06-04
 BOM500008,AMARA RAJA BATTERIES LTD. EOD Prices,End of Day prices and additional trading information for AMARA RAJA BATTERIES LTD. EOD Prices.,2021-06-04 14:10:05,1992-03-02,2021-06-04
