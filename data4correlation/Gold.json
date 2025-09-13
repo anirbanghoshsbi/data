@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_id": "GOLD_INTRO_001",
+    "metadata": {
+      "topic": "Gold Prices",
+      "speaker": "Anchor",
+      "content_type": "News Introduction",
+      "domain": "Finance",
+      "timeframe": "Current Event"
+    },
+    "content": "Vishal Kalra introduces the news segment about the unprecedented rise in gold and silver prices. Gold is ₹100 per 10 grams (₹1,10,000 for 24-carat), silver has crossed ₹1,27,000 per kilo. Gold rose by ₹33,000 this year, silver by ₹41,000. Concern for middle-class buyers during wedding and festive season."
+  },
+  {
+    "chunk_id": "GOLD_FACTORS_002",
+    "metadata": {
+      "topic": "Gold Price Drivers",
+      "speaker": "Sharad Kohli",
+      "content_type": "Expert Explanation",
+      "domain": "Geopolitics, Economics",
+      "timeframe": "2025"
+    },
+    "content": "Gold rises during unrest. Ongoing conflicts (Hamas-Israel, Russia-Ukraine) create geopolitical uncertainty. NATO tensions (Polish drones incident). Tariff wars initiated by Trump created global uncertainty. Safe-haven demand increases when stock markets underperform."
+  },
+  {
+    "chunk_id": "GOLD_ECONOMIC_003",
+    "metadata": {
+      "topic": "Macro-Economic Drivers",
+      "speaker": "Sharad Kohli",
+      "content_type": "Economic Analysis",
+      "domain": "Finance, Macro-Economy",
+      "timeframe": "2025"
+    },
+    "content": "Inflation in U.S. rising (2.3% → 2.9%). Tariffs will push inflation further. Possible U.S. Fed rate cuts push bond yields down, supporting gold. Central banks are buying gold heavily: US 8,000+ tons, China 5,000+, India 800+. Dollar weakening globally, rupee weakening locally due to FII/FPI outflows."
+  },
+  {
+    "chunk_id": "GOLD_SUPPLY_004",
+    "metadata": {
+      "topic": "Gold Supply & Scarcity",
+      "speaker": "Sharad Kohli",
+      "content_type": "Resource Analysis",
+      "domain": "Commodities",
+      "timeframe": "Future Outlook"
+    },
+    "content": "Global gold reserves left in mines are 500–100,000 tons. 28,000 tons already extracted. If all extracted gold stacked, it fits under Eiffel Tower. At current extraction, gold may run out in 15–20 years, supporting higher long-term prices."
+  },
+  {
+    "chunk_id": "SILVER_FACTORS_005",
+    "metadata": {
+      "topic": "Silver Market",
+      "speaker": "Sharad Kohli",
+      "content_type": "Expert Analysis",
+      "domain": "Commodities",
+      "timeframe": "2025"
+    },
+    "content": "Silver has industrial use in electronics, mobiles, and circuitry. Its dual demand (investment + industrial) drives price. Silver crossed ₹1,27,000 per kilo, up ₹41,000 this year. Offers better returns per lakh invested compared to gold. Gold-to-silver ratio widening often triggers silver surges."
+  },
+  {
+    "chunk_id": "TRADING_INVESTMENT_006",
+    "metadata": {
+      "topic": "Gold & Silver Trading",
+      "speaker": "Sharad Kohli",
+      "content_type": "Investment Guidance",
+      "domain": "Trading",
+      "timeframe": "2025"
+    },
+    "content": "Gold and silver are traded on MCX via contracts, not physically. Daily speculative trading causes short-term volatility. For investment: avoid jewelry (due to making charges/impurities). Prefer 24-carat bars, coins, or ETFs. Allocate ~20% of portfolio to precious metals. Hold long-term; gold may touch ₹1.5 lakh by 2026."
+  },
+  {
+    "chunk_id": "JEWELRY_GUIDE_007",
+    "metadata": {
+      "topic": "Jewelry vs Investment",
+      "speaker": "Sharad Kohli",
+      "content_type": "Consumer Advice",
+      "domain": "Personal Finance",
+      "timeframe": "2025"
+    },
+    "content": "For weddings: buy 14-carat jewelry (looks similar, ~40% cheaper). Do not treat jewelry as investment. For wealth-building, stick to ETFs, bars, or coins. Jewelry should be ornamental only."
+  },
+  {
+    "chunk_id": "RISKS_SCENARIOS_008",
+    "metadata": {
+      "topic": "Gold Price Risks",
+      "speaker": "Sharad Kohli",
+      "content_type": "Risk Analysis",
+      "domain": "Finance",
+      "timeframe": "Future Outlook"
+    },
+    "content": "Gold may correct if peace returns, tariffs are reversed, Fed hikes rates, or dollar strengthens. FOMO buyers often fear missing out. Despite possible corrections, long-term investors in gold still expected to benefit."
+  }
+]
