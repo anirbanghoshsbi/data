@@ -166,6 +166,185 @@
       "domain": "Finance"
     },
     "content": "The discussion covers history, price patterns, and ETF options. It is not direct investment advice; no recommendation to buy or avoid any specific ETF is provided."
+  },
+  {
+    "chunk_id": "GOLD_2025_PERFORMANCE_001",
+    "metadata": {
+      "topic": "Gold vs Other Assets 2025",
+      "speaker": "Host / Narrator",
+      "domain": "Markets",
+      "content_type": "Market Snapshot",
+      "timeframe": "2025"
+    },
+    "content": "Gold in 2025 has outperformed other asset classes; in dollar terms gold prices rose nearly 38% year-to-date. Silver returned over 40% in 2025 after lagging gold earlier."
+  },
+  {
+    "chunk_id": "GOLD_COMMON_OPINION_002",
+    "metadata": {
+      "topic": "Common Misconceptions",
+      "speaker": "Host / Narrator",
+      "domain": "Personal Finance",
+      "content_type": "Opinion",
+      "timeframe": "General"
+    },
+    "content": "Common view: 'Gold isn't a good investment because it yields nothing; jewelry is ornamental.' Interview frames that view against gold's strong 2025 performance."
+  },
+  {
+    "chunk_id": "CENTRAL_BANK_BUYING_DOLLARIZATION_003",
+    "metadata": {
+      "topic": "Central Bank Buying",
+      "speaker": "Kanan / Guest",
+      "domain": "Macro-Finance",
+      "content_type": "Macro Explanation",
+      "timeframe": "Post Russia–Ukraine"
+    },
+    "content": "Central banks (India, Russia, China and others) have been buying large amounts of gold as part of a dollar-reduction / 'ddollarization' strategy. Foreign central banks now own more gold relative to US treasuries than they have since 1996."
+  },
+  {
+    "chunk_id": "US_SANCTIONS_IMPACT_004",
+    "metadata": {
+      "topic": "Sanctions and Reserve Strategy",
+      "speaker": "Kanan / Guest",
+      "domain": "International Finance",
+      "content_type": "Causal Narrative",
+      "timeframe": "Post Russia–Ukraine"
+    },
+    "content": "US sanctions on Russian investments (~$430 billion referenced) triggered fears of asset freezes, encouraging central banks to reduce US treasuries and increase gold holdings to avoid exposure to potential freezes."
+  },
+  {
+    "chunk_id": "CENTRAL_BANK_STATS_005",
+    "metadata": {
+      "topic": "Central Bank Gold Purchases - Stats",
+      "speaker": "Kanan / Guest",
+      "domain": "Commodities",
+      "content_type": "Data Point",
+      "timeframe": "First half 2024–2025",
+      "notes": "numeric"
+    },
+    "content": "Record central-bank accumulation: ~483 tonnes in a prior year's first half (record). First half of 2025: ~420 tonnes bought at $3,000+ levels."
+  },
+  {
+    "chunk_id": "GOLD_QUANTITY_VISUAL_006",
+    "metadata": {
+      "topic": "Global Gold Quantity Visualization",
+      "speaker": "Kanan / Guest",
+      "domain": "Commodities",
+      "content_type": "Illustration",
+      "timeframe": "General"
+    },
+    "content": "Visualization: all mined gold could be represented as a cube ~70 ft per side (fits inside a large stadium)."
+  },
+  {
+    "chunk_id": "GOLD_SUPPLY_NEW_MINE_007",
+    "metadata": {
+      "topic": "Mining Supply",
+      "speaker": "Kanan / Guest",
+      "domain": "Commodities",
+      "content_type": "Supply Fact",
+      "timeframe": "Annual"
+    },
+    "content": "Newly mined gold: ~3,500–4,000 tonnes per year. Given heavy central-bank buying (hundreds of tonnes per half-year), supply/demand dynamics support higher prices."
+  },
+  {
+    "chunk_id": "GOLD_ROLE_IN_PORTFOLIO_008",
+    "metadata": {
+      "topic": "Portfolio Allocation - Gold",
+      "speaker": "Kanan / Guest",
+      "domain": "Wealth Management",
+      "content_type": "Advice",
+      "timeframe": "General"
+    },
+    "content": "Recommended strategic allocation to gold: 10–15% of portfolio. Rationale: low volatility, diversification, negative correlation with equities in short term, and long-term returns (~11–13% historically over 25 years)."
+  },
+  {
+    "chunk_id": "GOLD_RETURN_HISTORY_009",
+    "metadata": {
+      "topic": "Gold Long-term Returns",
+      "speaker": "Kanan / Guest",
+      "domain": "Investing",
+      "content_type": "Historical Performance",
+      "timeframe": "Last 25 years"
+    },
+    "content": "Over the last 25 years, gold generated returns similar to equity (~13% including recent years; ~11% if excluding the last 2 years), with far lower volatility and few major drawdowns (notable large drawdown years rare)."
+  },
+  {
+    "chunk_id": "GOLD_VS_JEWELRY_ETF_010",
+    "metadata": {
+      "topic": "Buying Forms: Jewelry vs ETF vs Physical",
+      "speaker": "Kanan / Guest",
+      "domain": "Retail Investing",
+      "content_type": "Practical Advice",
+      "timeframe": "2025"
+    },
+    "content": "Prefer gold ETFs or mutual funds over jewelry/physical: ETFs avoid making charges, purity and storage issues, and mutual funds/ETFs also save ~3% GST compared with digital gold/physical. ETFs hold mandated physical underlying."
+  },
+  {
+    "chunk_id": "GOLD_ETF_MARKET_011",
+    "metadata": {
+      "topic": "Gold ETF Liquidity & Pricing",
+      "speaker": "Kanan / Guest",
+      "domain": "Markets",
+      "content_type": "Market Microstructure",
+      "timeframe": "2025"
+    },
+    "content": "Gold ETFs generally have sufficient volume and price discovery. Watch for ETF premium/discount vs MCX/spot; compare ETF price to MCX/spot/pricing on exchange for fair valuation."
+  },
+  {
+    "chunk_id": "SIP_STRATEGY_012",
+    "metadata": {
+      "topic": "Accumulation Strategy",
+      "speaker": "Kanan / Guest",
+      "domain": "Wealth Management",
+      "content_type": "Tactical Advice",
+      "timeframe": "General"
+    },
+    "content": "Use SIP-like systematic accumulation for gold just as you do for equities to maintain target allocation (10–15%). Mirror equity accumulation habits to avoid timing risk; avoid lump-sum timing unless experienced."
+  },
+  {
+    "chunk_id": "SILVER_CHARACTERISTICS_013",
+    "metadata": {
+      "topic": "Silver vs Gold",
+      "speaker": "Kanan / Guest",
+      "domain": "Commodities",
+      "content_type": "Comparative Analysis",
+      "timeframe": "2025"
+    },
+    "content": "Silver: ~50–60% of demand is industrial (electronics, EVs, AI data centers, solar). Industrial demand + supply deficits (4 years of supply < demand) drove silver's rally. Silver is more cyclical and volatile than gold."
+  },
+  {
+    "chunk_id": "SILVER_STRATEGY_014",
+    "metadata": {
+      "topic": "Silver Investment Strategy",
+      "speaker": "Kanan / Guest",
+      "domain": "Investing",
+      "content_type": "Tactical Guidance",
+      "timeframe": "2025"
+    },
+    "content": "Silver is mainly a tactical play for professionals who can time markets; not a reliable strategic hedge like gold. Silver can draw down 40–45% in a year, so treat it as higher-risk, higher-volatility exposure."
+  },
+  {
+    "chunk_id": "GOLD_SILVER_RATIO_015",
+    "metadata": {
+      "topic": "Gold–Silver Ratio",
+      "speaker": "Kanan / Guest",
+      "domain": "Commodities",
+      "content_type": "Technical Indicator",
+      "timeframe": "25-year average vs current"
+    },
+    "content": "Gold–silver ratio historical average ~65–85; at time of discussion ratio ~107 — implying silver relatively cheap versus gold and a reason some traders favor silver trades."
+  },
+  {
+    "chunk_id": "PORTFOLIO_BROAD_DIVERSIFICATION_016",
+    "metadata": {
+      "topic": "Broader Portfolio Advice (Equity, Intl, Fixed Income, REITs)",
+      "speaker": "Kanan / Guest",
+      "domain": "Asset Allocation",
+      "content_type": "Holistic Advice",
+      "timeframe": "2025"
+    },
+    "content": "Equity: accept volatility; long-term SIP discipline required. International equity: consider selective exposure (US innovation leaders) but be mindful of concentration (e.g., 'Magnificent 7' concentration). Fixed income: consider credit-cycle opportunities over duration if rates may fall; REITs: evolving space—example yields ~8% and potential capital gains, can be ~10% in select cases. Suggested tactical allocations depend on investor sophistication; a sample: 10% gold, consider small REIT exposure, maintain domestic equity tilt."
   }
 ]
+  
+  
 
